@@ -25,3 +25,13 @@ Welcome to the Band Name Generator.<br>
 What's the name of the city you grew up in? Berlin<br>
 What's your pet's name? Miezi<br>
 Your band name could be: BerlinMiezi
+
+## Skills Learned
+
+- Using `print()` for console output
+- Using `input()` to get user input
+- Concatenating strings with `+`
+- Basic formatting and indentation
+- Adding comments for clarity
+- Using `len()` to check string length
+- First debugging experience using Thonny (e.g. step-by-step bug tracing)
