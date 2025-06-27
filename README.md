@@ -21,7 +21,7 @@ The program:
 
 Example output:
 
-Welcome to the Band Name Generator.
-What's the name of the city you grew up in? Berlin
-What's your pet's name? Miezi
-Your band name could be: Berlin Miezi
+Welcome to the Band Name Generator.<br>
+What's the name of the city you grew up in? Berlin<br>
+What's your pet's name? Miezi<br>
+Your band name could be: BerlinMiezi
